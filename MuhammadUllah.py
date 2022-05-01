@@ -182,7 +182,7 @@ def main_apv():
 
     logo()
 
-    try:
+
 
         key1=open('/data/data/com.termux/files/usr/bin/.akkkk-cov', 'r').read()
 
@@ -192,7 +192,7 @@ def main_apv():
 
         logo()
 
-        print ("[*]｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡")
+
 
         print ("  Your Token Is Not Approved Already")
 
