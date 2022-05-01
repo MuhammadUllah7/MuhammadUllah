@@ -192,7 +192,7 @@ def main_apv():
 
         logo()
 
-        print ("[*]｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡")
+        print ("[*]｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡")
 
         print ("  Your Token Is Not Approved Already")
 
