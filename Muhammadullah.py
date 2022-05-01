@@ -190,7 +190,7 @@ def main_apv():
 
         os.system("clear")
 
-        logo()
+        logo
 
         print ("[*]｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡")
 
