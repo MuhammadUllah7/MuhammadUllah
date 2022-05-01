@@ -448,7 +448,7 @@ class __crack__:
 
 		global ok,cp,loop
 
-		sys.stdout.write('\r\033[1;32m[ YASIN 😘] \033[1;97m%s/%s   \033[1;92m[ OK-:%s ]  \033[1;91m[ CP-:%s ] '%(loop,len(self.id),len(ok),len(cp))),
+		sys.stdout.write('\r\033[1;32m[ M-ULLAH 😘] \033[1;97m%s/%s   \033[1;92m[ OK-:%s ]  \033[1;91m[ CP-:%s ] '%(loop,len(self.id),len(ok),len(cp))),
 
 		sys.stdout.flush()
 
