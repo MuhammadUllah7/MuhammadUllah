@@ -60,8 +60,8 @@ from sys import exit as exit
 
 class jalan:
 
-	def __init__(self, z):
-def __in
+	def __init__(self, z)
+
 			sys.stdout.write(e)
 
 			sys.stdout.flush()
