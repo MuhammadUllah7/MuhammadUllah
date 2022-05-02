@@ -61,7 +61,7 @@ from sys import exit as exit
 class jalan:
 
 	 def __init__(self,z)
-		:for e in z + "\n":
+		
 			
 
 			sys.stdout.write(e)
